@@ -1,6 +1,8 @@
 # TestWork_ApiBest
 
+``` bash
 git clone https://github.com/laravel/quickstart-basic quickstart
+```
 cd quickstart
 docker-project update # клонирует указанные репозитории в структуру apps/vendor/web-ui
 docker-project build # собирает имиджи тем где указана команда build, вполне возможно вам это не нужно
